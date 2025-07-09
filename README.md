@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-👉 [View Website]((https://estate-nine-psi.vercel.app/))
+👉 [View Website](https://estate-nine-psi.vercel.app)
 
 ## 🚀 Features
 
